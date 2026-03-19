@@ -20,7 +20,7 @@ using HeadsetClass = HeadphonesItemClass;
 
 namespace BobbysMusicPlayer
 {
-    [BepInPlugin("BobbyRenzobbi.MusicPlayer", "BobbysMusicPlayer", "1.2.4")]
+    [BepInPlugin("BobbyRenzobbi.MusicPlayer", "BobbysMusicPlayer", "1.2.5")]
     public class Plugin : BaseUnityPlugin
     {
         public static bool InRaid { get; set; } = false;
